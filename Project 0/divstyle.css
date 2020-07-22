@@ -1,0 +1,13 @@
+.outter-box{
+    background-color: cornflowerblue; 
+    width: 900px;
+    height: 600px;
+    
+  }
+  .inside-box{
+    background-color: rgb(211, 177, 26); 
+    width: 500px;
+    height: 200px; 
+    
+
+  }
